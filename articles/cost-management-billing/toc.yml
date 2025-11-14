@@ -173,6 +173,8 @@
     items:
     - name: Enable Azure Marketplace purchases
       href: manage/enable-marketplace-purchases.md
+    - name: To update COCP in Azure portal
+      href: manage/cocp.md
     - name: Create subscriptions programmatically
       items:
       - name: Create subscriptions programmatically
