@@ -1,6 +1,6 @@
-Initiate a Change of Channel Partner (COCP) request
+# Initiate a Change of Channel Partner (COCP) request
 
-# Summary
+## Summary
 
 From Nov 2025, Enterprise volume licensing customers will be able to initiate Change of Channel Partner via the Microsoft admin center and Azure portals.
 
@@ -8,7 +8,7 @@ This change moves the ability to initiate the CoCP process away from Partners an
 
 Once a COCP is initiated by a customer, the Partner is notified to accept or decline. Once accepted by the Partner, customer admin will get a notification of the accepted request and the effective date from when the new partner will be enabled.
 
-# Prequisite information required from your new partner
+## Prequisite information required from your new partner
 
 Only two pieces of information will be required to initiate a change of channel partner request.
 
@@ -48,7 +48,7 @@ In Scope
 -   Early COCP (before anniversary date)
 -   A COCP initiated in one portal will not be visible in the other to prevent duplication of requests.
 
-# Azure Portal customer experience
+## Azure Portal customer experience
 
 1.  The customer must have enterprise admin role on the billing scopes to initiate the request.
 2.  **Customers can initiate the COCP request from 1 entry point**
@@ -156,4 +156,5 @@ A COCP Request with a status of In Process may be cancelled in full or partially
 ![A screenshot of a computer AI-generated content may be incorrect.](media/cocp/70d4d272274e6e5374095722b4a09c86.png)
 
 This will initiate a notification to the partner to let them know that the request has been cancelled.
+
 
