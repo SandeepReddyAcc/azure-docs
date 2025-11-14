@@ -1,3 +1,14 @@
+---
+title:  Initiate a Change of Channel Partner (COCP) request
+description:  Initiate a Change of Channel Partner (COCP) request
+ms.service: cost-management-billing
+ms.subservice: microsoft-customer-agreement
+ms.topic: conceptual
+ms.date: 11/14/2025
+ms.author: vikrammittal
+ms.reviewer: vikrammittal
+---
+
 # Initiate a Change of Channel Partner (COCP) request
 
 ## Summary
@@ -156,5 +167,6 @@ A COCP Request with a status of In Process may be cancelled in full or partially
 ![A screenshot of a computer AI-generated content may be incorrect.](media/cocp/70d4d272274e6e5374095722b4a09c86.png)
 
 This will initiate a notification to the partner to let them know that the request has been cancelled.
+
 
 
